@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "8f1e49IHEtX818Bww9ypi10/dNzzwqy+UYV2Y5TzFV9skc+3MTVdl629OmDL9TF4ObJaB6rW2NdLe5J/VOJzdw==",
+  "success": true,
+  "projectFilePath": "D:\\VisualStudio\\VLCSample\\VLCSample\\VLCSample\\VLCSample\\VLCSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tyler\\.nuget\\packages\\libvlcsharp\\3.4.6\\libvlcsharp.3.4.6.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\libvlcsharp.forms\\3.4.6\\libvlcsharp.forms.3.4.6.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\xamarin.forms\\4.7.0.1179\\xamarin.forms.4.7.0.1179.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\xamarin.forms.visual.material\\4.7.0.1179\\xamarin.forms.visual.material.4.7.0.1179.nupkg.sha512"
+  ],
+  "logs": []
+}

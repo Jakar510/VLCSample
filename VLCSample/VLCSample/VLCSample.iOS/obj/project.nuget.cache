@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LqNPB+LvV9nfiyKHgBBZnyJbTuoa0ICtlSPr5E4EUzvvEU8VpyZyLBWcBxbcB+La2wKlndjxVlfEJ62EoryZ7w==",
+  "success": true,
+  "projectFilePath": "D:\\VisualStudio\\VLCSample\\VLCSample\\VLCSample\\VLCSample.iOS\\VLCSample.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tyler\\.nuget\\packages\\libvlcsharp\\3.4.6\\libvlcsharp.3.4.6.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\libvlcsharp.forms\\3.4.6\\libvlcsharp.forms.3.4.6.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\videolan.libvlc.ios\\3.3.10\\videolan.libvlc.ios.3.3.10.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\xamarin.forms\\4.7.0.1179\\xamarin.forms.4.7.0.1179.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\xamarin.forms.visual.material\\4.7.0.1179\\xamarin.forms.visual.material.4.7.0.1179.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\xamarin.ios.materialcomponents\\92.0.0\\xamarin.ios.materialcomponents.92.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
